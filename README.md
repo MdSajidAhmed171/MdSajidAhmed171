@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Currently Working on Web based project & Explainable AI
+I am Currently Working on Web based project & AI
 
 
 ## 🌐 Socials:
